@@ -1,0 +1,6 @@
+[package]
+name = "t-rust"
+version = "0.1.0"
+authors = ["ec2-user"]
+
+[dependencies]
